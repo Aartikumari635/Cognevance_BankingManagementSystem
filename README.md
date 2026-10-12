@@ -24,7 +24,3 @@ A Java-based Banking Management System developed using NetBeans and MySQL.
 
 ## Developer
 Aarti Kumari
-## Project Screenshot
-
-![Banking Dashboard](dashboard.png)
-
